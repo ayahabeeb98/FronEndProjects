@@ -28,7 +28,7 @@
       <td>3</td>
       <td>
         <a href="https://ayahabeeb98.github.io/Front-end-mentor-projects/Todo-app-master/" target="_blank"> 
-          Huddle landing page
+          Todo app
         </a>
       </td>
     </tr>
